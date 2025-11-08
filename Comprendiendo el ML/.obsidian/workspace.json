@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "d3c3db405ef21cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "21be1f9e9fb94172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f190fededfb09bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introduccion/¿Que es?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "¿Que es?"
+            }
+          },
+          {
+            "id": "7bea924402b3dde4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introduccion/Conceptos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceptos"
+            }
+          },
+          {
+            "id": "e8bc2b51f6aec588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introduccion/Conceptos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceptos"
+            }
+          },
+          {
+            "id": "882f3dfc481e4d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Modelos ML/Mejorar el rendimiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mejorar el rendimiento"
+            }
+          },
+          {
+            "id": "1ef45bab73673371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nota_ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nota_ML"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86b199ef8b22c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "a84d2124e09acd90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f9bf4ca97e2082",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "976bda055173ed76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f4b8c47914f6548",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "50b0a44e8cb80c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c96de3dcd21da83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cbd227f8aedc185",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nota_ML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for nota_ML"
+            }
+          },
+          {
+            "id": "14f4cb687da278cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nota_ML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from nota_ML"
+            }
+          },
+          {
+            "id": "e394336161b90273",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42a18c5473b07016",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nota_ML.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of nota_ML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ef45bab73673371",
+  "lastOpenFiles": [
+    "3. Aprendizaje Profundo/Limitantes del ML.md",
+    "nota_ML.md",
+    "3. Aprendizaje Profundo/Procesamiento de lenguajes naturales (PLN).md",
+    "3. Aprendizaje Profundo/Vision Aritificial.md",
+    "3. Aprendizaje Profundo/Aprendizaje profundo.md",
+    "2. Modelos ML/Mejorar el rendimiento.md",
+    "3. Aprendizaje Profundo",
+    "2. Modelos ML/Evaluar rendimiento.md",
+    "2. Modelos ML/Aprendizaje no supervisado.md",
+    "2. Modelos ML/Aprendizaje supervisado.md",
+    "1. Introduccion/¿Que es?.md",
+    "1. Introduccion/Conceptos.md",
+    "1. Introduccion/Flujo de trabajo del ML.md",
+    "Modelos ML/Evaluar el rendimiento.md",
+    "2. Modelos ML",
+    "1. Introduccion"
+  ]
+}
