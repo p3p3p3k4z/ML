@@ -26,6 +26,8 @@ Es un tipo de Machine Learning donde los valores que queremos predecir **ya son 
 * Utiliza **Atributos (Features)** para predecir el valor de una **Variable Objetivo (Target variable)**.
 * *Ejemplo:* Predecir la posición de un jugador de baloncesto basándose en sus puntos por partido.
 
+![[Pasted image 20260218162539.png]]
+
 ---
 
 ### Tipos de Aprendizaje Supervisado
