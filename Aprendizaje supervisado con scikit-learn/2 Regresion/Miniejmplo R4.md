@@ -1,8 +1,7 @@
 La regresión **Ridge** es una técnica fundamental para controlar la complejidad de un modelo de regresión. Al añadir una penalización proporcional al cuadrado de los coeficientes, evitamos que el modelo se vuelva "demasiado sensible" a los datos de entrenamiento, protegiéndolo contra el sobreajuste. En este ejercicio, evaluaremos cómo impactan diferentes valores de **Alpha** ($\alpha$) en la capacidad de generalización del modelo utilizando el conjunto de datos `sales_df`.
 
-Python
 
-```
+```python
 # Importar Ridge desde sklearn.linear_model
 from sklearn.linear_model import Ridge
 
@@ -54,9 +53,8 @@ Al observar la lista `ridge_scores`, notarás que la precisión ($R^2$) cambia. 
 ---
 La regresión **Lasso** (_Least Absolute Shrinkage and Selection Operator_) es una herramienta fascinante porque no solo ayuda a reducir el sobreajuste, sino que actúa como un "filtro inteligente". A diferencia de Ridge, Lasso tiene la propiedad matemática de reducir los coeficientes de las características menos importantes a **cero exactamente**, realizando así una selección automática de variables. En este ejercicio, utilizaremos Lasso con un $\alpha = 0.3$ sobre el dataset de ventas para identificar qué canales publicitarios realmente mueven la aguja.
 
-Python
 
-```
+```python
 # Importar Lasso desde sklearn.linear_model
 from sklearn.linear_model import Lasso
 import matplotlib.pyplot as plt
