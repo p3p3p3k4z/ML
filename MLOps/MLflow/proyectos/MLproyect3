@@ -1,0 +1,27 @@
+# =================================================================
+# MLPROJECT: ETAPA DE INGENIERÍA DE MODELOS
+# =================================================================
+
+name: insurance_model
+python_env: python_env.yaml
+
+entry_points:
+  # 1. Definimos el punto de entrada específico para ingeniería de modelos
+  model_engineering:
+    parameters: 
+      # 2. Definimos n_jobs para controlar el paralelismo
+      n_jobs:
+        type: int
+        default: 1
+      # 3. Definimos fit_intercept para la lógica del modelo
+      fit_intercept:
+        type: bool
+        default: True
+        
+    # 4. Pasamos los parámetros al comando de ejecución
+    # La sintaxis {nombre} inyecta el valor del parámetro en la terminal
+    command: "python3.9 train_model.py {n_jobs} {fit_intercept}"
+
+# Autodocumentación:
+# Tener puntos de entrada nombrados permite que el equipo de DevOps 
+# ejecute solo partes específicas del flujo de trabajo según sea necesario.

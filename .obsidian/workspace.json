@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje supervisado con scikit-learn/Cheetseet.md",
+                "file": "MLOps/MLflow/proyectos/practica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheetseet"
+              "title": "practica"
             }
           }
         ]
@@ -183,10 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "c6e6d61304a7f1c8",
+  "active": "65805bea36e1fc0c",
   "lastOpenFiles": [
-    "Aprendizaje supervisado con scikit-learn/ml_template.py",
+    "ETL y ELT en python",
+    "MLOps/proyecto_londres.py",
+    "MLOps/MLflow/proyectos/flujo.py",
+    "MLOps/MLflow/proyectos/MLproyect3",
+    "MLOps/MLflow/proyectos/ejecucion2.py",
+    "MLOps/MLflow/proyectos/MLproyect2",
+    "MLOps/MLflow/proyectos/ejecucion.py",
+    "MLOps/MLflow/proyectos/MLproyect",
+    "MLOps/MLflow/registro de modelos/registro.md",
+    "MLOps/MLflow/proyectos/practica.md",
+    "MLOps/MLflow/proyectos",
+    "MLOps/MLflow/registro de modelos/carga.py",
+    "MLOps/MLflow/registro de modelos/transicion.py",
+    "MLOps/MLflow/modelo/Models.md",
+    "MLOps/MLflow/intro/Introduccion.md",
+    "MLOps/despliegue y ciclo de vida/desarrollo de despliegue.md",
+    "MLOps/despliegue y ciclo de vida/monitorear y mantener.md",
+    "MLOps/despliegue y ciclo de vida/mlops resumen.md",
+    "MLOps/despliegue y ciclo de vida/despliegue y ejecutar.md",
     "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/ejercicio de canalizacion final de prediccion.md",
+    "MLOps/MLflow/Introduccion.md",
+    "MLOps/MLflow/Untitled.md",
+    "Aprendizaje supervisado con scikit-learn/project farm.md",
+    "MLOps/resumen final.md",
+    "MLOps/monitoreo.md",
+    "MLOps/despliegue.md",
+    "MLOps/diseño.md",
+    "MLOps/Inicio.md",
     "Aprendizaje supervisado con scikit-learn/Cheetseet.md",
     "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/ejercicios de rendimiento.md",
     "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/ejercicios de evaluacion.md",
@@ -195,26 +221,6 @@
     "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/centrado y escalado.md",
     "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Ejercicios de canalizacion.md",
     "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Ejercicios limpieza y faltantes.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Datos faltantes.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Ejercicio P.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/preprocesamiento.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo/Miniejemplo OP.md",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo/optimizacion de hiperparametros.md",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo/Miniejercicio R1.md",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo/Regresion Logisrtica y Curva ROC.md",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo/Miniejemplo M1.md",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo/Es bueno el modelo?....md",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion/Miniejemplo R2.md",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion/Miniejmplo R4.md",
-    "Aprendizaje supervisado con scikit-learn/3 Afinar modelo",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion/Regresion Regularizada.md",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion/Miniejmplo R3.md",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion/Validacion Cruzada.md",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion/Conceptos.md",
-    "Aprendizaje supervisado con scikit-learn/1 Clasificacion/Rendimiento.md",
-    "Aprendizaje supervisado con scikit-learn/2 Regresion",
-    "Untitled.base",
     "Aprendizaje supervisado con scikit-learn/1 Clasificacion/Pasted image 20260218162539.png"
   ]
 }

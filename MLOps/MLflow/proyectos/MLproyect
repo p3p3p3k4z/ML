@@ -1,0 +1,25 @@
+# =================================================================
+# CONFIGURACIÓN DE MLPROJECT: PROYECTO INSURANCE
+# =================================================================
+
+# 1. Definimos el nombre del Proyecto.
+# Este nombre aparecerá en la interfaz de MLflow Tracking para organizar las ejecuciones.
+name: insurance_model
+
+# 2. Establecemos el entorno de ejecución.
+# Indicamos a MLflow que cree un entorno virtual basado en las dependencias 
+# definidas en el archivo 'python_env.yaml'. Esto garantiza la reproducibilidad.
+python_env: python_env.yaml
+
+# 3. Definimos los puntos de entrada (Entry Points).
+# Los entry_points son los comandos que MLflow puede ejecutar dentro de este proyecto.
+entry_points:
+    # Creamos el punto de entrada principal llamado 'main'
+    main:
+        # Definimos el comando específico que se disparará al ejecutar este proyecto.
+        # Usamos una versión de Python específica (3.9) para evitar conflictos de versiones.
+        command: 'python3.9 train_model.py'
+
+# Autodocumentación:
+# Al tener este archivo, cualquier ingeniero puede ejecutar el proyecto con:
+# 'mlflow run .' y MLflow se encargará de instalar el entorno y correr el script.

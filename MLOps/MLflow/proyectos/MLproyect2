@@ -1,0 +1,28 @@
+# =================================================================
+# CONFIGURACIÓN DINÁMICA DE MLPROJECT: PROYECTO INSURANCE
+# =================================================================
+
+name: insurance_model
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    # Definimos la sección de parámetros para hacer el proyecto dinámico
+    parameters:
+      # 1. Parámetro para el número de trabajos en paralelo (n_jobs)
+      n_jobs:
+        type: int
+        default: 1
+      
+      # 2. Parámetro para decidir si se calcula la intersección (fit_intercept)
+      fit_intercept:
+        type: bool
+        default: True
+
+    # 3. Configuramos el comando para que acepte las variables definidas arriba
+    # Usamos la sintaxis de llaves {} para inyectar los valores de los parámetros.
+    command: "python3.9 train_model.py {n_jobs} {fit_intercept}"
+
+# Autodocumentación:
+# Gracias a esta configuración, ahora puedes ejecutar el proyecto variando los 
+# valores desde la terminal: 'mlflow run . -P n_jobs=4 -P fit_intercept=False'
