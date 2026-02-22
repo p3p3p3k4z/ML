@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLOps/MLflow/proyectos/practica.md",
+                "file": "DVC/3 tuberias/preactica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "practica"
+              "title": "preactica"
             }
           }
         ]
@@ -183,21 +183,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "65805bea36e1fc0c",
+  "active": "c6e6d61304a7f1c8",
   "lastOpenFiles": [
-    "ETL y ELT en python",
-    "MLOps/proyecto_londres.py",
-    "MLOps/MLflow/proyectos/flujo.py",
-    "MLOps/MLflow/proyectos/MLproyect3",
-    "MLOps/MLflow/proyectos/ejecucion2.py",
-    "MLOps/MLflow/proyectos/MLproyect2",
-    "MLOps/MLflow/proyectos/ejecucion.py",
-    "MLOps/MLflow/proyectos/MLproyect",
-    "MLOps/MLflow/registro de modelos/registro.md",
+    "DVC/3 tuberias/canalizacion.md",
+    "DVC/3 tuberias/preactica.md",
+    "DVC/2 config y gestion/practica.md",
+    "DVC/2 config y gestion/GESTION.md",
+    "DVC/1 intro/intro.md",
+    "DVC/3 tuberias",
+    "DVC/2 config y gestion",
+    "DVC/1 intro",
+    "calidad de datos con Great Expectations/4 all/espectativas 2.md",
+    "DVC",
+    "calidad de datos con Great Expectations/3 gx/gx.md",
+    "calidad de datos con Great Expectations/4 all/new_espectativa.py",
+    "calidad de datos con Great Expectations/2 definir/expectativas.md",
+    "calidad de datos con Great Expectations/3 gx/expectativa.py",
+    "calidad de datos con Great Expectations/1 conectar datos/intro.md",
+    "calidad de datos con Great Expectations/2 definir/vuelo.py",
+    "ETL y ELT en python/implementacion/implementar y mantenimiento.md",
+    "calidad de datos con Great Expectations/1 conectar datos/gx.py",
+    "calidad de datos con Great Expectations/4 all",
+    "calidad de datos con Great Expectations/3 gx",
+    "ETL y ELT en python/3 tecnicas/tecnicas.md",
+    "ETL y ELT en python/2 crear pipeline/etl.md",
+    "ETL y ELT en python/1 intro/about.md",
     "MLOps/MLflow/proyectos/practica.md",
-    "MLOps/MLflow/proyectos",
-    "MLOps/MLflow/registro de modelos/carga.py",
-    "MLOps/MLflow/registro de modelos/transicion.py",
+    "MLOps/MLflow/registro de modelos/registro.md",
     "MLOps/MLflow/modelo/Models.md",
     "MLOps/MLflow/intro/Introduccion.md",
     "MLOps/despliegue y ciclo de vida/desarrollo de despliegue.md",
@@ -209,18 +221,6 @@
     "MLOps/MLflow/Untitled.md",
     "Aprendizaje supervisado con scikit-learn/project farm.md",
     "MLOps/resumen final.md",
-    "MLOps/monitoreo.md",
-    "MLOps/despliegue.md",
-    "MLOps/diseño.md",
-    "MLOps/Inicio.md",
-    "Aprendizaje supervisado con scikit-learn/Cheetseet.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/ejercicios de rendimiento.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/ejercicios de evaluacion.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Evaluar modelos.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Ejercicios de centrado y escalado.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/centrado y escalado.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Ejercicios de canalizacion.md",
-    "Aprendizaje supervisado con scikit-learn/4 Preprocesamiento y canalizacion/Ejercicios limpieza y faltantes.md",
     "Aprendizaje supervisado con scikit-learn/1 Clasificacion/Pasted image 20260218162539.png"
   ]
 }
